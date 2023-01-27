@@ -1,0 +1,6 @@
+~/go/bin/MailHog
+redis-server
+npm run dev
+python3 main.py
+celery -A main.celery beat --loglevel=info
+celery -A main.celery worker --loglevel=info
