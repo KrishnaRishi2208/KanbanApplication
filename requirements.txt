@@ -1,0 +1,9 @@
+flask
+flask_sqlalchemy
+flask_cors
+celery
+smtplib
+plotly.express
+pdfkit
+email
+csv
