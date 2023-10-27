@@ -1,4 +1,4 @@
-# kanban2
+# Kanban
 
 <h3>Usage</h3>
 
